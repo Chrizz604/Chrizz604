@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm a 16 year old kid from Germany that started started programming in 2019 for fun. I mostly used [javascript](https://www.javascript.com/) for everything but now I'm also interested on learning other programming languages. 
+I'm a 16 year old kid from Germany that started started programming in 2019 for fun. I mostly used [javascript](https://www.javascript.com/) for everything but now I'm also interested in learning other programming languages. Because I don't want anyone to see my horrible code I have all my projects hidden in a privat repository :P
 
 ## 🔭 What am I currently working on?
 ### [ServerStats](https://serverstatsbot.com) 
