@@ -4,8 +4,8 @@ I'm a 16 year old kid from Germany that started programming in 2019 for fun. I u
 ## 🔭 What am I currently working on?
 ### [ServerStats](https://serverstatsbot.com) 
 ServerStats is a Discord bot that is mainly focused on providing information about your server and the members that are in it. It shows most of the information through the use of channel names (called counters), but there are also some information commands and a welcome channel.
-### [bs.to](https://bs.to) extension
-I'm also working on a Chrome extension which does try to make your experience with [bs.to](https://bs.to) better. It does keep track of the episodes you watched and it also tries to block most of the ad's you will see while using the website.
+### Anime Streaming Platform 
+I'm currently working on a streaming platform which will allows you to watch animes without any advertisements in high quality.
 
 ## 🌱 What am I currently learning?
 I'm currently learning [Rust](https://www.rust-lang.org/).
