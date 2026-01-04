@@ -33,8 +33,11 @@ When I’m not writing code, I’m usually lifting weights or hanging out with f
 
 ## 🧪 Current Projects
 
+### [Tenmon](https://tenmon.xyz/) — Managed gateway platform for Discord bots  
+Tenmon is a managed gateway platform built for Discord bots. It automatically runs and scales your shards, so you don’t have to restart all of them when rebooting, etc. It also helps you by offloading the workload of your gateway tasks onto our infrastructure. (*Service is Work in progress*)
+
 ### [ServerStats](https://serverstatsbot.com) — Discord analytics bot  
-Tracking **1 M+ live counters** across **3 M+ servers**, ServerStats turns raw Discord data into eye‑catching channel counters.
+Tracking live counters across **4 Million servers**, ServerStats turns raw Discord data into eye‑catching channel counters.
 
 _This is a hobby project, so I hack on whatever’s fun and helps the community._
 
